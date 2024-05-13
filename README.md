@@ -26,7 +26,7 @@ A játék kódja az aknakereső.py-ban látható.
     - a játék tetején láthatjuk a nem jelölt bombák számát
     - a zöld gombbal lehet kilépni a játékból és visszatérni a főoldalra
 
-![Reference Image](/assets/2.png) ![Reference Image](/assets/3.png)
+![Reference Image](/aknakereso/assets/2.png) ![Reference Image](/aknakereso/assets/3.png)
 
 ## Deep learning modul
 
